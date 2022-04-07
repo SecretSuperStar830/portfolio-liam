@@ -16,4 +16,4 @@ $(function()
 {
     new WOW().init();
     $(".rotate").textrotator();
-})
+})Fake commit 16 on 2022-04-07T00:00:00
